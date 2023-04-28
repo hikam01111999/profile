@@ -1,0 +1,52 @@
+body {
+  background-image: linear-gradient(darkblue, white);
+  font-family: sans-serif;
+}
+
+.rangka h1 {
+  text-align: center;
+  color: white;
+}
+.kepala {
+  text-align: center;
+  height: 300px;
+}
+.kepala img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  margin-top: 50px;
+}
+.leher {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.badan {
+  justify-content: space-between;
+  align-items: center;
+  width: 980px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  margin-right: 60px;
+  column-count: 2;
+}
+.kaki {
+  text-align: center;
+}
+ul {
+  margin-left: -45px;
+}
+.kaki li {
+  list-style: none;
+  display: inline-block;
+}
+.kaki ul li {
+  margin: 25px;
+}
+.tangankiri {
+  display: inline-block;
+  text-align: justify;
+}
+.tangankanan {
+  margin-left: 100px;
+}
